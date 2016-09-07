@@ -28,7 +28,7 @@
       ]
     },
     {
-      "basePath": "assets/scripts/dist",
+      "basePath": "assets/icons",
       "files": [
         "*.svg"
       ]
