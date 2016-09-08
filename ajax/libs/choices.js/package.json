@@ -7,6 +7,12 @@
     "type": "git",
     "url": "git+https://github.com/jshjohnson/Choices.git"
   },
+  "keywords": [
+    "select",
+    "dropdown",
+    "form",
+    "ui"
+  ],
   "author": "Josh Johnson",
   "license": "MIT",
   "dependencies": {
